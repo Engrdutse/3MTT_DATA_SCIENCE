@@ -1,4 +1,4 @@
-# Creating students score dictionary
+# Creating students score dictionary 
 student_data = {
     "Aliyu": 96,
     "Bashir": 80,
